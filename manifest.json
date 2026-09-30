@@ -1,0 +1,86 @@
+{
+  "business_name": "The Gypsy Coffee House",
+  "location": {
+    "address": "303 N Martin Luther King Jr Blvd, Tulsa, OK 74103",
+    "neighborhood": "Tulsa Arts District",
+    "parking": "Street parking on MLK and Cameron, plus a gravel lot on Cameron for customers"
+  },
+  "contact": {
+    "phone": "(918) 295-2181",
+    "email": "gypsycoffeehouse@gmail.com",
+    "facebook": "https://www.facebook.com/pages/GYPSY-COFFEE-HOUSE-CYBER-CAFE/111037275593972",
+    "instagram": "https://www.instagram.com/gypsycoffeehouse/"
+  },
+  "hours": {
+    "sunday": "8:00 AM–11:00 PM",
+    "monday": "8:00 AM–11:00 PM",
+    "tuesday": "8:00 AM–11:00 PM",
+    "wednesday": "8:00 AM–11:00 PM",
+    "thursday": "8:00 AM–11:00 PM",
+    "friday": "8:00 AM–midnight",
+    "saturday": "8:00 AM–midnight"
+  },
+  "offerings": [
+    "Locally roasted Nordaggio's coffee and espresso",
+    "Misty Peak loose leaf tea",
+    "Bakery treats",
+    "Live music and art"
+  ],
+  "featured_suppliers": {
+    "coffee": {
+      "name": "Nordaggio's Coffee",
+      "website": "https://www.nordaggios.com/",
+      "logo": "/public/partners/nordaggios.png",
+      "details": "Locally roasted coffee blends change weekly. Cafe Divino espresso has notes of baker's cocoa, caramel, and dried fruit."
+    },
+    "tea": {
+      "name": "Misty Peak Teas",
+      "website": "https://www.mistypeakteas.com/",
+      "logo": "/public/partners/misty_peak_teas.png",
+      "collection_photo": "/public/selected/tea-shelves.webp",
+      "details": "Extensive loose leaf tea collection, served by the pot or press."
+    },
+    "eufloria": {
+      "name": "Eufloria-Gypsy",
+      "logo": "/public/partners/eufloria.png",
+      "hours": "Open 24/7"
+    }
+  },
+  "events": [
+    {
+      "name": "Tuesday open mic",
+      "details": "In-person signup at 6:30 PM; performances start at 7:00 PM. Original material only; no covers."
+    },
+    {
+      "name": "First Friday Art Crawl",
+      "details": "Local art and music in the Tulsa Arts District."
+    },
+    {
+      "name": "Live music",
+      "details": "Friday and Saturday nights; check social channels for current lineups."
+    }
+  ],
+  "brand": {
+    "mood": "Dark, bohemian, creative community space",
+    "accent_color": "#80b854",
+    "display_font": "Fredericka the Great",
+    "logos": {
+      "dark_background": "/public/logo-white.png"
+    },
+    "secondary_color": "#173f5d"
+  },
+  "source_pages": [
+    "https://gypsycoffee.com/index.html",
+    "https://gypsycoffee.com/history-of-gypsy.html",
+    "https://gypsycoffee.com/menu.html",
+    "https://gypsycoffee.com/photo-gallery.html",
+    "https://gypsycoffee.com/events--music.html",
+    "https://gypsycoffee.com/location-hours--contact.html"
+  ],
+  "notes": [
+    "The original home and contact pages disagree on Sunday and Saturday opening times; this draft follows the home-page hours requested by the site owner.",
+    "No reliable current menu prices were found, so no prices are published.",
+    "The historic building dates to 1906; the source history's 1999 opening date is internally inconsistent with its renovation timeline and should be checked before publication.",
+    "Misty Peak Teas' historic website domain currently redirects to a parked page; replace the link if the brand provides an active site."
+  ]
+}

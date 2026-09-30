@@ -1,0 +1,16 @@
+{
+  "variables": [
+    {
+      "name": "PORT",
+      "description": "TCP port on which the public website listens. Defaults to 8804 when blank.",
+      "example": "8804",
+      "required": false
+    },
+    {
+      "name": "SHOW_SALE_NOTICE",
+      "description": "Set to on to show the England Software sale notice on page load and its reopen button after dismissal; set to off to hide both. Defaults to on when blank.",
+      "example": "on",
+      "required": false
+    }
+  ]
+}
